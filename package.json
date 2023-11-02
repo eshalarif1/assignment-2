@@ -1,12 +1,12 @@
 {
-  "name": "tuesdayclassproject",
+  "name": "webproject",
   "version": "1.0.0",
-  "description": "this is the first node program for testing purpose",
+  "description": "this is first node program",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Eshal",
+  "author": "eshal arif",
   "license": "ISC",
   "dependencies": {
     "connect": "^3.7.0",
